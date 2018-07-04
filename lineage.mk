@@ -9,7 +9,8 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 PRODUCT_NAME := lineage_h872
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_DEVICE="g6" \
+    TARGET_DEVICE="lucye" \
+    PRODUCT_DEVICE="lucye" \
     PRODUCT_NAME="lucye_tmo_us" \
     PRIVATE_BUILD_DESC="lucye_tmo_us-user 7.0 NRD90U 17062223981e1 release-keys"
 
