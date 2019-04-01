@@ -35,6 +35,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="lucye" \
     PRODUCT_DEVICE="lucye" \
     PRODUCT_NAME="lucye_tmo_us" \
-    PRIVATE_BUILD_DESC="lucye_tmo_us-user 7.0 NRD90U 17062223981e1 release-keys"
+    PRIVATE_BUILD_DESC="lucye_tmo_us-user 8.0.0 OPR1.170623.032 183621644ce05 release-keys"
 
-BUILD_FINGERPRINT := "lge/lucye_tmo_us/lucye:7.0/NRD90U/17062223981e1:user/release-keys"
+BUILD_FINGERPRINT := "lge/lucye_tmo_us/lucye:8.0.0/OPR1.170623.032/183621644ce05:user/release-keys"
